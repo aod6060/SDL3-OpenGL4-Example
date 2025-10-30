@@ -1,6 +1,3 @@
-#include "glm/ext/matrix_transform.hpp"
-#include "glm/ext/quaternion_transform.hpp"
-#include "glm/trigonometric.hpp"
 #include <iostream>
 #include <fstream>
 #include <string>
